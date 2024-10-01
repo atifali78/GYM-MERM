@@ -16,6 +16,7 @@ const WorkoutSessions = () => {
           Bootcamp offers structured, high-intensity training programs aimed at
           delivering noticeable results in a short time
         </p>
+         
         <div className="bootcamps">
           <div>
             <h4>Expert-Led Sessions.</h4>
